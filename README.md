@@ -107,6 +107,12 @@ A unique image compression algorithm built using dynamic quadtree partitioning.
 * 🔗 LinkedIn: https://www.linkedin.com/in/navonilmandal/
 
 
+
+## 🐍 Contribution Snake
+![snake animation](https://raw.githubusercontent.com/navonilmandal/navonilmandal/gh-pages/snake.svg)
+
+
+
 ---
 
 ### ⭐ *If you like my work, consider starring my repositories!*

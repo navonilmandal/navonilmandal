@@ -109,7 +109,13 @@ A unique image compression algorithm built using dynamic quadtree partitioning.
 
 
 ## 🐍 Contribution Snake
-![snake animation](https://raw.githubusercontent.com/navonilmandal/navonilmandal/gh-pages/snake.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/navonilmandal/navonilmandal/refs/heads/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/navonilmandal/navonilmandal/refs/heads/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/navonilmandal/navonilmandal/refs/heads/output/github-snake.svgg" />
+</picture>
+
 
 
 

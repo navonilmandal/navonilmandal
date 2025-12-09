@@ -1,25 +1,36 @@
-name: Generate Snake Animation
+name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # Runs every 12 hours
+    - cron: "0 */12 * * *"  # runs every 12 hours
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    steps:
-      - name: Generate snake
-        uses: Platane/snk@master
-        with:
-          github_user_name: navonilmandal
-          outputs: |
-            dist/snake.svg
 
-      - name: Upload snake to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v3
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate snake
+        uses: Platane/snk@v3
         with:
-          target_branch: gh-pages
-          build_dir: dist
+          # your GitHub username
+          github_user_name: navonilmandal
+
+          # list of files to generate (this is why we can use `outputs`)
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output        # branch where images will be pushed
+          build_dir: dist              # folder created by snk
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

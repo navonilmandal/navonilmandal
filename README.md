@@ -53,6 +53,14 @@ Real-time lane detection, vehicle detection, and driver safety analysis.
 
 🔗 GitHub: [https://github.com/navonilmandal/adas_ongoing](https://github.com/navonilmandal/adas_ongoing)
 
+**Tech Used:**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)  
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-00A8E8)
+
+
+
 ---
 
 ### 🔹 **Deepfake Detector**
@@ -61,6 +69,17 @@ CNN-based architecture for detecting manipulated facial videos with preprocessin
 
 🔗 GitHub: https://github.com/navonilmandal/deepfake_video_detection_project
 
+### 🔹 Deepfake Detector  
+
+**Tech Used:**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)  
+![CNN](https://img.shields.io/badge/CNN-FF6F00)
+
+
+
+
 ---
 
 ### 🔹 **Quad-Tree Image Compressor**
@@ -68,6 +87,15 @@ CNN-based architecture for detecting manipulated facial videos with preprocessin
 A unique image compression algorithm built using dynamic quadtree partitioning.
 
 🔗 GitHub: https://github.com/navonilmandal/quadtree_compressor
+
+### 🔹 Quad-Tree Image Compressor  
+
+**Tech Used:**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![Algorithm](https://img.shields.io/badge/Algorithm-00B8D4)  
+![Image Processing](https://img.shields.io/badge/Image%20Processing-8E44AD)
+
+
 
 ---
 

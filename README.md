@@ -20,9 +20,26 @@ I love turning ideas into real, working AI systems. From deep learning to automa
 
 **Programming:** Python, C++, JavaScript, Java, SQL
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+
 **ML/DL:** TensorFlow, PyTorch, scikit-learn, OpenCV, YOLOV8n
 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+
+
 **Tools:** Git, Colab, Jupyter, Docker
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+
 
 **Cloud:** AWS, GCP (beginner)
 

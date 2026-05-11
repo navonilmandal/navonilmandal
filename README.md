@@ -10,7 +10,7 @@ I love turning ideas into real, working AI systems — from persistent cognitive
 
 * 🎓 B.Tech CSE @ Birla Institute of Technology, Mesra (2027 batch) — GPA: 8.1/10
 * 🤖 Passionate about AI/ML, GenAI & LLM Engineering, Data Science, Computer Vision, and NLP
-* 🔬 ML Researcher under Dr. Rayees Ahmad — Intelligent Traffic Signal Control using RL & metaheuristics
+* 🔬 ML Researcher under DR. Rayees Ahmad — Intelligent Traffic Signal Control using RL & metaheuristics
 * 🔥 Always curious, always building production-grade AI systems
 * 🎮 Gamer | 🎵 Musician | ✍️ Writer
 

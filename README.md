@@ -81,12 +81,15 @@ End-to-end ML pipeline for churn prediction — EDA, CLV feature engineering, XG
 
 ---
 
-### 🔹 [Deepfake Video Detection System](https://github.com/navonilmandal/deepfake_video_detection_project)
-Hybrid **CNN–LSTM** architecture for deepfake detection — MTCNN face extraction, FaceNet embeddings, temporal smoothing, and 84% accuracy on the test split.
+### 🔹 [Real Estate AI Sales Agent](https://github.com/navonilmandal/real_estate_ai_agent)
+Agentic multi-tool **RAG sales assistant** for real estate — Qdrant vector search with Gemini embeddings, multilingual support (English, Hindi, Hinglish), automated site visit booking with `.ics` calendar invites, human callback escalation, and 80% Precision@1 RAG benchmark evaluation.
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![CNN-LSTM](https://img.shields.io/badge/CNN--LSTM-FF6F00?logoColor=white)
-![MTCNN](https://img.shields.io/badge/MTCNN-5C3EE8?logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.12+-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC2626?logo=qdrant&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?logo=google&logoColor=white)
+
 
 ---
 

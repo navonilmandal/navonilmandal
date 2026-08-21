@@ -5,6 +5,9 @@
 I love turning ideas into real, working AI systems — from persistent cognitive AI platforms to deepfake detectors and adaptive traffic controllers. I enjoy solving complex problems and shipping production-ready solutions.
 
 ---
+## 📄 Resume
+
+[![Resume](https://img.shields.io/badge/Resume-View%20%2F%20Download-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/navonilmandal/Resume/blob/main/Navo_DA_AI_NEW.pdf)
 
 ## 🧠 About Me
 
